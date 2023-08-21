@@ -1,0 +1,18 @@
+/* Post-specific styles */
+.post-list {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 20px;
+}
+
+.post-card {
+  /* Styles for individual post cards */
+}
+
+.post-card img {
+  /* Styles for post images */
+}
+
+.post-card h2 {
+  /* Styles for post titles */
+}

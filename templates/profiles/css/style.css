@@ -1,0 +1,23 @@
+/* Profile-specific styles */
+main {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.profile-card {
+  width: 200px;
+  margin: 10px;
+  padding: 10px;
+  background-color: #f2f2f2;
+}
+
+.profile-card img {
+  width: 100%;
+  height: auto;
+  border-radius: 50%;
+}
+
+.profile-card h2 {
+  margin-top: 10px;
+  font-size: 18px;
+}
